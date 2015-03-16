@@ -1,6 +1,6 @@
 
 # XuLA2 FPGA Board Repository
-Here you can everything XuLA2-related!
+Here you can find everything XuLA2-related!
 
 This repo integrates everything for the XuLA2 FPGA board into one place:
     pcb/:
